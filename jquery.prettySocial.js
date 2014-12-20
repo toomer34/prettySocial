@@ -46,6 +46,13 @@
                         width: 600,
                         height: 600
                     }
+                },
+                tumblr: {
+                    url: 'http://www.tumblr.com/share/link?url={{url}}&amp;name={{title}}&amp;description={{description}}',
+                    popup: {
+                        width: 600,
+                        height: 600
+                    }
                 }
             },
 
